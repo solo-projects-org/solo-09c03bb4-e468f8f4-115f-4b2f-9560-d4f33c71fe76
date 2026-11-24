@@ -1,0 +1,4 @@
+# 本地测试额外依赖（运行镜像本身不需要）
+-r requirements.txt
+httpx==0.28.1
+pytest==9.2.0
